@@ -75,6 +75,6 @@ resource "aws_instance" "nginx1" {
 	sudo amazon-linux-extras install -y nginx1
 	sudo service nginx start
 	sudo rm /usr/share/nginx/html/index.html
-	echo '<html><head><title>Terraform Leanring</title></head></html>'
+	echo '<html><head><title>Terraform Learning</title></head></html>'
   EOF
 }

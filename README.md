@@ -1,2 +1,2 @@
 # terraform-aws-demo
-Repo for Terraform learning and evaluation. Infrastructure deployment to AWS.
+Repo for Terraform containing code, snippets, demos and trainings about deploying infrastructure to AWS.
